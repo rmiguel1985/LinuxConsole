@@ -124,7 +124,8 @@ Bazzite uses **GRUB2** as its bootloader. We are going to add the entry for Bato
 2.  Click **Add a Product** → **Add a Non-Steam Game...**    
 3.  Select the `boot-batocera.sh` file.    
 4.  In the shortcut properties in Steam, rename it to **"Batocera"** and assign a custom icon if desired.
-	4.1 There are images in the repo for logo, grid and banners. 
+   
+	4.1  There are images in the repo for logo, grid and banners. 
 
 
 
